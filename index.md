@@ -1,6 +1,7 @@
 # Introduction   
 **Name:** Wilson Sugiarto  
 > I am a second year CompSci major from Indonesia
+
 ` A recent CS class I took was CSE 100R `
 You can return to the repository using this [link](https://github.com/wsugiarto/CSE110-Project).
 Go back to the README [here](CSE110-Project/README.md)
