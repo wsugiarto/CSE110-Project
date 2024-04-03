@@ -4,7 +4,7 @@
 
 ` A recent CS class I took was CSE 100R `
 You can return to the repository using this [link](https://github.com/wsugiarto/CSE110-Project).
-Go back to the README [here](CSE110-Project/README.md)
+Go back to the README [here](./README.md)
 Ordered List of programming languages I am comfortable with:
 1. Java
 2. C++
