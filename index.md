@@ -17,4 +17,4 @@ Unordered List of Places I eat at:
 
 Task List for the day:
 - [x] Lunch
-- [] Dinner
+- [ ] Dinner
