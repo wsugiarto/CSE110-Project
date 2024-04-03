@@ -16,5 +16,5 @@ Unordered List of Places I eat at:
 - Dirty Birds
 
 Task List for the day:
-[x] Lunch
-[] Dinner
+- [x] Lunch
+- [] Dinner
